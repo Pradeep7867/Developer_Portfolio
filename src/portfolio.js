@@ -214,12 +214,14 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "THESE IDEAS EMPOWER INDIVIDUALS TO GROW AND SOLVE REAL-LIFE PROBLEMS.🚀",
+  subtitle:
+    "THESE IDEAS EMPOWER INDIVIDUALS TO GROW AND SOLVE REAL-LIFE PROBLEMS.🚀",
   projects: [
     {
       image: require("./assets/images/NaukriWala.png"),
       projectName: "JobPortal",
-      projectDesc: " Developing a web-based job portal application that allows users to register, log in, search for jobs, and apply for positions. The application also includes an admin panel for managing job postings and companies. ",
+      projectDesc:
+        " Developing a web-based job portal application that allows users to register, log in, search for jobs, and apply for positions. The application also includes an admin panel for managing job postings and companies. ",
       footerLink: [
         {
           name: "Visit Website",
@@ -231,7 +233,8 @@ const bigProjects = {
     {
       image: require("./assets/images/ComingSoon.png"),
       projectName: "Restuant Management System",
-      projectDesc: "A web-based Restaurant Management System that allows customers to scan a QR code to access the restaurant’s digital menu. The system enables restaurant owners to manage menus, orders, and analytics efficiently through an admin panel.",
+      projectDesc:
+        "A web-based Restaurant Management System that allows customers to scan a QR code to access the restaurant’s digital menu. The system enables restaurant owners to manage menus, orders, and analytics efficiently through an admin panel.",
       footerLink: [
         {
           name: "Coming Soon",
@@ -266,14 +269,12 @@ const achievementSection = {
         {
           name: "Award Letter",
           url: "https://drive.google.com/file/d/1Rj6Fm7ZL18h0v9EAuvicutiXWCEdP-x1/view?usp=sharing"
-        },
-        
+        }
       ]
     },
     {
       title: "Microsoft Certified: AZ-900",
-      subtitle:
-        "Azure-Fundamentals",
+      subtitle: "Azure-Fundamentals",
       image: require("./assets/images/AZ900.jpg"),
       imageAlt: "AZ-900 ",
       footerLink: [
@@ -370,7 +371,7 @@ const contactInfo = {
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-637XXXXXXX",
   email_address: "pradeepsajnani742@gmail.com",
-  display : true
+  display: true
 };
 
 // Twitter Section
